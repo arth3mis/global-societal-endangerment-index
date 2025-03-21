@@ -1,4 +1,4 @@
-Location,Prevalence_HIV_AIDS,Prevalence_TB_and_Respiratory,Prevalence_Malaria_and_Neglected_Tropical,Prevalence_Other_Infectious
+Location,HIV_AIDS_cases_per_100k,TB_and_Respiratory_cases_per_100k,Malaria_and_Neglected_Tropical_cases_per_100k,Other_Infectious_cases_per_100k
 Afghanistan,13.08,20436.28,22050.99,1619.54
 Albania,1.07,22568.22,903.34,1063.17
 Algeria,42.96,13316.6,7483.94,1470.42
