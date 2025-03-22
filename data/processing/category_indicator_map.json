@@ -1,0 +1,54 @@
+{
+    "env": [
+        "Temp Change max 2012-2022",
+        "Disaster Affected Population 2020-2025",
+        "Disaster Damage US$T 2020-2025",
+        "Unsafe water, sanitation (YLL)",
+        "Air pollution (YLL)",
+        "Safe Drinking Water (%)",
+        "Food Insecurity (%)",
+        "Undernourishment (%)",
+        "Renewable Freshwater per Capita (m3)"
+    ],
+    "pol": [
+        "Corruption Control",
+        "Rule of Law",
+        "Political Stability",
+        "Government Effectiveness",
+        "Regulatory Quality",
+        "Voice and Accountability",
+        "Democracy, not Autocracy"
+    ],
+    "soc": [
+        "Population below Poverty Line (%)",
+        "Health Expenditure per Capita (US$)",
+        "RoW Health Expenditure (%)",
+        "Literacy Rate (%)",
+        "No Education (%)",
+        "Lower Secondary Completion Rate (%)",
+        "Education Expenditure (US$M)",
+        "Crime Rate"
+    ],
+    "eco": [
+        "Government Debt (% of GDP)",
+        "Total Reserves (% of External Debt)",
+        "Gini Coefficient",
+        "Income Share Top 10%",
+        "Inflation (%)",
+        "Unemployment (%)",
+        "Youth Unemployment (%)",
+        "Electricity Access (%)",
+        "Renewable Energy Consumption (%)",
+        "Internet Users (%)",
+        "Secure Internet Servers"
+    ],
+    "threat": [
+        "Future Conflict Risk",
+        "Current Conflict Intensity",
+        "COVID-19 Expenditure per Capita (US$)",
+        "Prevalence HIV/AIDS",
+        "Prevalence TB/Respiratory",
+        "Prevalence Malaria/Tropical",
+        "Prevalence Other Infectious"
+    ]
+}
