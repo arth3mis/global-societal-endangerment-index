@@ -42,5 +42,20 @@
         "disease_PC2",
         "disease_PC3",
         "disease_PC4"
+    ],
+    "pca": [
+        "pol_PC1",
+        "pol_PC2",
+        "pol_PC3",
+        "pol_PC4",
+        "pol_PC5",
+        "pol_PC6",
+        "water_air_PC1",
+        "water_air_PC2",
+        "water_air_PC3",
+        "disease_PC1",
+        "disease_PC2",
+        "disease_PC3",
+        "disease_PC4"
     ]
 }

@@ -2,8 +2,8 @@ import json
 
 
 # load category JSON file
-def load():
-    with open('data/processing/category_indicator_map.json', 'r') as json_file:
+def load(version=''):
+    with open(f'data/processing/category_indicator_map{"_" + version if version != "" else ""}.json', 'r') as json_file:
         return json.load(json_file)
 
 
