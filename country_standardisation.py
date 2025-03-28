@@ -28,6 +28,12 @@ def lookup_country(country_name: str, fuzzy_threshold=80):
     elif country_name == 'Turkey':
         print(f"Using special case for '{country_name}' -> 'Türkiye'")
         return 'Türkiye'
+    elif country_name == 'Ivory Coast':
+        print(f"Using special case for '{country_name}' -> 'Côte d'Ivoire'")
+        return "Côte d'Ivoire"
+    elif country_name == 'Somaliland':
+        print(f"Using special case for '{country_name}' -> '{UNKNOWN_COUNTRY}'")
+        return UNKNOWN_COUNTRY
     elif 'Korea' in country_name and 'DPR' in country_name:
         print(f"Using special case for '{country_name}' -> 'Korea, Democratic People's Republic of'")
         return "Korea, Democratic People's Republic of"
