@@ -1,0 +1,194 @@
+WRI.Country,ISO3.Code,W
+Philippines,PHL,46.91
+Indonesia,IDN,41.13
+India,IND,40.96
+Colombia,COL,37.81
+Mexico,MEX,35.93
+Myanmar,MMR,35.85
+Mozambique,MOZ,34.44
+Russian Federation,RUS,28.12
+Bangladesh,BGD,27.73
+Pakistan,PAK,27.02
+Peru,PER,27.01
+Papua New Guinea,PNG,26.35
+Madagascar,MDG,24.8
+Somalia,SOM,24.64
+Yemen,YEM,24.47
+Viet Nam,VNM,24.24
+Bolivarian Republic of Venezuela,VEN,24.2
+Ecuador,ECU,23.81
+United States of America,USA,22.56
+Nicaragua,NIC,21.94
+Thailand,THA,21.7
+China,CHN,21.31
+Australia,AUS,21.05
+Japan,JPN,20.94
+Canada,CAN,18.89
+Egypt,EGY,18.78
+Panama,PAN,18.19
+Iran (Islamic Republic of),IRN,17.47
+Honduras,HND,16.81
+United Republic of Tanzania,TZA,15.98
+El Salvador,SLV,14.94
+Argentina,ARG,14.81
+Solomon Islands,SLB,14.74
+Malaysia,MYS,14.5
+Turkey,TUR,14.48
+New Zealand,NZL,14.34
+Libyan Arab Jamahiriya,LBY,13.87
+Kenya,KEN,13.79
+Chile,CHL,13.74
+Dominican Republic,DOM,13.33
+Brazil,BRA,13.15
+Syrian Arab Republic,SYR,12.5
+Democratic People's Republic of Korea,PRK,12.38
+Guatemala,GTM,11.76
+Vanuatu,VUT,11.58
+Cameroon,CMR,11.4
+Costa Rica,CRI,11.17
+Italy,ITA,11.11
+Djibouti,DJI,10.82
+Republic of Korea,KOR,10.59
+Morocco,MAR,10.43
+Angola,AGO,10.42
+Sudan,SDN,10.3
+Haiti,HTI,9.96
+Tunisia,TUN,9.91
+Democratic Republic of Congo,COD,9.87
+Spain,ESP,9.74
+Algeria,DZA,9.64
+South Africa,ZAF,9.6
+Saudi Arabia,SAU,9.34
+Nigeria,NGA,9.33
+Mauritania,MRT,9.32
+Iraq,IRQ,9.24
+Greece,GRC,8.61
+Cambodia,KHM,8.15
+Oman,OMN,8.06
+Belize,BLZ,7.97
+Cuba,CUB,7.8
+Timor-Leste,TLS,7.55
+France,FRA,7.54
+Eritrea,ERI,7.47
+Guyana,GUY,7.35
+Suriname,SUR,6.76
+Fiji,FJI,6.7
+Guinea,GIN,6.55
+Albania,ALB,6.24
+Sri Lanka,LKA,6.16
+Sierra Leone,SLE,5.72
+United Kingdom of Great Britain and Northern Ireland,GBR,5.7
+Senegal,SEN,5.66
+Republic of Congo,COG,5.49
+Namibia,NAM,5.4
+Belgium,BEL,5.1
+Gabon,GAB,5.08
+Portugal,PRT,5.08
+Uruguay,URY,4.97
+Gambia,GMB,4.89
+Ethiopia,ETH,4.86
+Bahamas,BHS,4.82
+Croatia,HRV,4.78
+Poland,POL,4.74
+United Arab Emirates,ARE,4.54
+Federated States of Micronesia,FSM,4.44
+Ukraine,UKR,4.41
+South Sudan,SSD,4.25
+Afghanistan,AFG,4.12
+Netherlands,NLD,4.11
+Germany,DEU,4.1
+Tonga,TON,4.02
+Lebanon,LBN,3.87
+Israel,ISR,3.81
+Georgia,GEO,3.74
+Jordan,JOR,3.61
+Mauritius,MUS,3.58
+Guinea-Bissau,GNB,3.55
+Cyprus,CYP,3.5
+Central African Republic,CAF,3.44
+Jamaica,JAM,3.4
+Malawi,MWI,3.37
+Equatorial Guinea,GNQ,3.25
+Samoa,WSM,3.23
+Sweden,SWE,3.23
+Romania,ROU,3.22
+Plurinational State of Bolivia,BOL,3.2
+Marshall Islands,MHL,3.12
+Liberia,LBR,3.11
+Lao People's Democratic Republic,LAO,3.03
+Burundi,BDI,3.02
+Latvia,LVA,3.01
+Trinidad and Tobago,TTO,3
+Chad,TCD,2.94
+Ghana,GHA,2.94
+Zambia,ZMB,2.93
+Montenegro,MNE,2.9
+Antigua and Barbuda,ATG,2.9
+Saint Lucia,LCA,2.83
+Uganda,UGA,2.81
+Kiribati,KIR,2.81
+Kuwait,KWT,2.77
+Nepal,NPL,2.71
+Dominica,DMA,2.69
+Comoros,COM,2.68
+Rwanda,RWA,2.63
+Saint Vincent and the Grenadines,VCT,2.63
+Zimbabwe,ZWE,2.62
+Armenia,ARM,2.61
+Norway,NOR,2.61
+Seychelles,SYC,2.57
+Ireland,IRL,2.55
+Kyrgyzstan,KGZ,2.53
+Bosnia and Herzegovina,BIH,2.49
+Barbados,BRB,2.46
+Bulgaria,BGR,2.43
+Tajikistan,TJK,2.36
+Lithuania,LTU,2.32
+Mali,MLI,2.29
+Azerbaijan,AZE,2.23
+Niger,NER,2.16
+Saint Kitts and Nevis,KNA,2.14
+Slovenia,SVN,2.1
+Cote d'Ivoire,CIV,2.02
+Palau,PLW,2.02
+Burkina Faso,BFA,2.01
+Iceland,ISL,2.01
+Mongolia,MNG,1.95
+Kazakhstan,KAZ,1.94
+Eswatini,SWZ,1.93
+Grenada,GRD,1.82
+Benin,BEN,1.77
+Estonia,EST,1.77
+Serbia,SRB,1.68
+Paraguay,PRY,1.65
+Togo,TGO,1.58
+Finland,FIN,1.54
+Tuvalu,TUV,1.53
+Uzbekistan,UZB,1.52
+Botswana,BWA,1.34
+Lesotho,LSO,1.33
+North Macedonia,MKD,1.29
+Republic of Moldova,MDA,1.29
+Brunei Darussalam,BRN,1.29
+Turkmenistan,TKM,1.25
+Bhutan,BTN,1.18
+Cape Verde,CPV,1.17
+Austria,AUT,1.16
+Maldives,MDV,1.11
+Czech Republic,CZE,1.09
+Switzerland,CHE,1.05
+Slovakia,SVK,1.03
+Malta,MLT,1.03
+Nauru,NRU,1.02
+Denmark,DNK,0.98
+Hungary,HUN,0.95
+Bahrain,BHR,0.94
+Qatar,QAT,0.94
+Singapore,SGP,0.8
+Belarus,BLR,0.76
+Liechtenstein,LIE,0.71
+Sao Tome and Principe,STP,0.67
+Luxembourg,LUX,0.61
+San Marino,SMR,0.35
+Andorra,AND,0.28
+Monaco,MCO,0.18
