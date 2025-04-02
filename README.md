@@ -16,3 +16,9 @@ Generative AI chats:
 ---
 
 Developed by Arthur Freye (March 2025) for the course *Data Analysis and Visualisation* at Dundalk Institute of Technology, Ireland. 
+
+---
+
+![](./images/frontpage.jpg)
+
+![](./images/map_gsei.png)
